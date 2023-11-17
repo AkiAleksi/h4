@@ -50,3 +50,31 @@ Access control vulnerabilities and privilege escalation 
 -Cross-site scripting (also known as XSS) is a web security vulnerability that allows an attacker to compromise the interactions that users have with a vulnerable application. It allows an attacker to circumvent the same origin policy, which is designed to segregate different websites from each other. Cross-site scripting vulnerabilities normally allow an attacker to masquerade as a victim user, to carry out any actions that the user is able to perform, and to access any of the user's data.
 
 -Cross-site scripting works by manipulating a vulnerable web site so that it returns malicious JavaScript to users. When the malicious code executes inside a victim's browser, the attacker can fully compromise their interaction with the application.
+
+17.11.2023 klo 19:58
+
+a.)
+
+
+Latasin oswap zapin.
+
+<img width="611" alt="Screenshot 2023-11-17 at 20 01 55" src="https://github.com/AkiAleksi/h4/assets/112399816/699ca0c3-d41e-4e72-bef8-6a47082b7d76">
+
+Ajoin java -jar <kohde> komennon. Se käynnistää zapin.
+
+<img width="634" alt="Screenshot 2023-11-17 at 20 00 21" src="https://github.com/AkiAleksi/h4/assets/112399816/8aa49a76-1d9d-41e0-8b06-943bd2daab84">
+
+
+Zap käynnissä
+
+<img width="651" alt="Screenshot 2023-11-16 at 14 05 02" src="https://github.com/AkiAleksi/h4/assets/112399816/3c56d989-1215-4f49-b9a5-f1848741cc61">
+
+
+
+Näkyy Zap
+
+<img width="554" alt="Screenshot 2023-11-17 at 20 11 23" src="https://github.com/AkiAleksi/h4/assets/112399816/d1084316-a849-453c-be11-5ebdab5ca161">
+
+
+
+
