@@ -69,9 +69,44 @@ Zap käynnissä
 
 <img width="651" alt="Screenshot 2023-11-16 at 14 05 02" src="https://github.com/AkiAleksi/h4/assets/112399816/3c56d989-1215-4f49-b9a5-f1848741cc61">
 
+localhost:8080 
+Zap näkyy
+Latasin sertifikaatin.
 
 
-Näkyy Zap
+
+
+
+
+<img width="659" alt="Screenshot 2023-11-17 at 20 18 27" src="https://github.com/AkiAleksi/h4/assets/112399816/3df089aa-412b-487e-bc7f-1e8e6f454728">
+
+
+importtasin sertifikaatin.
+
+
+
+<img width="645" alt="Screenshot 2023-11-17 at 20 20 40" src="https://github.com/AkiAleksi/h4/assets/112399816/49d96942-2597-4162-a6fe-db40f6d3b41e">
+
+
+Latasin Foxyproxyn
+
+
+<img width="516" alt="Screenshot 2023-11-17 at 20 27 22" src="https://github.com/AkiAleksi/h4/assets/112399816/3a70d03b-31e7-4891-a4ef-6677ac83d17f">
+
+Käynnistin sen
+
+
+<img width="659" alt="Screenshot 2023-11-17 at 20 29 00" src="https://github.com/AkiAleksi/h4/assets/112399816/bc89e4f3-1386-4158-85b0-95dbc0266a5f">
+
+
+Hain googlea 
+
+
+<img width="654" alt="Screenshot 2023-11-17 at 20 31 31" src="https://github.com/AkiAleksi/h4/assets/112399816/d8a19575-52f0-4067-8866-ce36f0c29a5c">
+
+
+
+Näkyy google haku näkyy Zap
 
 <img width="554" alt="Screenshot 2023-11-17 at 20 11 23" src="https://github.com/AkiAleksi/h4/assets/112399816/d1084316-a849-453c-be11-5ebdab5ca161">
 
