@@ -110,6 +110,34 @@ Näkyy google haku näkyy Zap
 
 <img width="554" alt="Screenshot 2023-11-17 at 20 11 23" src="https://github.com/AkiAleksi/h4/assets/112399816/d1084316-a849-453c-be11-5ebdab5ca161">
 
+b.)
+
+Latasin Foxyproxyn
 
 
+<img width="516" alt="Screenshot 2023-11-17 at 20 27 22" src="https://github.com/AkiAleksi/h4/assets/112399816/3a70d03b-31e7-4891-a4ef-6677ac83d17f">
+
+Lisäsin proxyn
+
+
+
+
+
+<img width="944" alt="Screenshot 2023-11-17 at 21 37 24" src="https://github.com/AkiAleksi/h4/assets/112399816/ffb5f90b-ee19-4b29-ac62-520a89774137">
+
+
+
+
+
+Käynnistin sen
+
+
+<img width="659" alt="Screenshot 2023-11-17 at 20 29 00" src="https://github.com/AkiAleksi/h4/assets/112399816/bc89e4f3-1386-4158-85b0-95dbc0266a5f">
+
+Asetin proxyn
+
+
+<img width="929" alt="Screenshot 2023-11-17 at 20 59 15" src="https://github.com/AkiAleksi/h4/assets/112399816/b369bb16-bff1-48a2-a776-eb7be3d2ed9f">
+
+17.11.2023 klo 21:38
 
