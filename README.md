@@ -66,11 +66,11 @@ Zap käynnissä
 
 <img width="651" alt="Screenshot 2023-11-16 at 14 05 02" src="https://github.com/AkiAleksi/h4/assets/112399816/3c56d989-1215-4f49-b9a5-f1848741cc61">
 
-localhost:8080 
+
 Zap näkyy
 
 Loin CA-sertifikaatin. Zapissa sertifikaatti luodaan menemällä Options -> Server Certificates -> Save. Sitten paikan valinta.
-Latasin sertifikaatin zapin sivuilta.
+Sitten laitoin hakukenttään localhost:8080. Zapin sivut aukesi. Latasin sertifikaatin zapin sivuilta.
 
 
 
@@ -87,7 +87,7 @@ importtasin sertifikaatin.
 <img width="645" alt="Screenshot 2023-11-17 at 20 20 40" src="https://github.com/AkiAleksi/h4/assets/112399816/49d96942-2597-4162-a6fe-db40f6d3b41e">
 
 
-Latasin Foxyproxyn
+Latasin Foxyproxyn, jo tässä kohtaa kun ei toiminut localhostissa ilman sitä.
 
 
 <img width="516" alt="Screenshot 2023-11-17 at 20 27 22" src="https://github.com/AkiAleksi/h4/assets/112399816/3a70d03b-31e7-4891-a4ef-6677ac83d17f">
