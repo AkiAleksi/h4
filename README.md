@@ -287,9 +287,8 @@ Lab solved!!
 i.)
 
 
-
-
-
+Search box syöttää siihen kirjoitetun koodin.
+Testataan <h1>xd</h1>
 
 
 <img width="444" alt="Screenshot 2023-11-18 at 16 41 29" src="https://github.com/AkiAleksi/h4/assets/112399816/41d80b11-814f-4013-9117-3907d64e65c9">
@@ -298,7 +297,7 @@ i.)
 
 
 
-
+Syötetään <script>alert()</script>
 
 
 
@@ -313,7 +312,7 @@ i.)
 
 
 
-
+alert box tulee esiin.
 
 
 
@@ -326,7 +325,7 @@ i.)
 
 
 
-
+Lab ratkaistu
 
 
 
@@ -337,18 +336,20 @@ i.)
 
 j.)
 
+Syötin kommentin ja kaappasin sen zapilla.
+
 
 <img width="436" alt="Screenshot 2023-11-18 at 17 29 08" src="https://github.com/AkiAleksi/h4/assets/112399816/b0c558ea-687e-46f0-9293-116071ec38af">
 
 
-
+Muutin sitä
 
 
 <img width="168" alt="Screenshot 2023-11-18 at 17 33 12" src="https://github.com/AkiAleksi/h4/assets/112399816/4fac5812-f13e-49bd-b69d-d1d76a220a22">
 
 
 
-
+Lab ratkaistu!
 
 
 <img width="157" alt="Screenshot 2023-11-18 at 17 34 48" src="https://github.com/AkiAleksi/h4/assets/112399816/d9bd8517-5808-4047-8433-64a33a462582">
@@ -356,8 +357,7 @@ j.)
 
 k.)
 
-[
-](https://owasp.org/www-project-webgoat/)
+https://owasp.org/www-project-webgoat/
 
 
 <img width="864" alt="Screenshot 2023-11-18 at 17 48 07" src="https://github.com/AkiAleksi/h4/assets/112399816/0a76c286-32fe-4e2b-828f-8fb7a336b8a5">
