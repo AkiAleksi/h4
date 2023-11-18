@@ -215,12 +215,13 @@ GET https://0a4f00a803cca70c836b50ec00ac0006.web-security-academy.net/image?file
 <img width="440" alt="Screenshot 2023-11-18 at 22 28 05" src="https://github.com/AkiAleksi/h4/assets/112399816/00b70ec4-7837-41fc-ac7d-a1709a0ef823">
 
 
-
+Hyökkäys onnistui
 
 
 <img width="232" alt="Screenshot 2023-11-18 at 22 30 13" src="https://github.com/AkiAleksi/h4/assets/112399816/f8a10e25-2c87-4951-806e-8756ddaa4a70">
 
-Hyökkäys onnistui
+
+Lab ratkaistu!
 
 
 <img width="639" alt="Screenshot 2023-11-18 at 14 12 33" src="https://github.com/AkiAleksi/h4/assets/112399816/943f765c-7d87-44ab-8102-0bede4e3bf6e">
