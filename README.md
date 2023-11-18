@@ -170,16 +170,25 @@ Lab solved!!!
 
 d.)
 
-Vihjeessä kerrottiin, että tuotekuvien näyttäminen mahdollistaa 'path traversalin'.
-Avasin consolin ja menin networkkiin. Löysin pyynnöstä heikon kohdan. 
-Muutin siihen ../../../etc/passwd
+Laitoin kuvat mukaan History-osaan: Tools > Options > Display > Process images in HTTP requests/responses
+Kaappasin zapilla pyynnön, jolla haetaan kuva.
 
 
 <img width="522" alt="Screenshot 2023-11-18 at 22 20 34" src="https://github.com/AkiAleksi/h4/assets/112399816/d0b097b6-80c6-4575-a936-9d2937e309fb">
 
 
 
+Pyynnön kohta filename on hyökättävissä tämän hyökkäyksen avulla.
+Muutin siihen ../../../../etc/passwd
+
+
+
 <img width="436" alt="Screenshot 2023-11-18 at 22 21 09" src="https://github.com/AkiAleksi/h4/assets/112399816/ba451d3b-7059-4a5c-8f2d-fa472b9f988a">
+
+
+
+Path traversal hyökkäys onnistui!
+
 
 
 <img width="461" alt="Screenshot 2023-11-18 at 22 21 33" src="https://github.com/AkiAleksi/h4/assets/112399816/efebeac8-94f8-433a-98dd-11378d38ff66">
@@ -198,15 +207,22 @@ Lab ratkaistu
 
 e.)
 
-GET https://0a4f00a803cca70c836b50ec00ac0006.web-security-academy.net/image?filename=/etc/passwd
 
 
+Kaappasin taas pyynnön.
 
 <img width="440" alt="Screenshot 2023-11-18 at 22 28 05" src="https://github.com/AkiAleksi/h4/assets/112399816/00b70ec4-7837-41fc-ac7d-a1709a0ef823">
 
 
+
+Muokkasin taas pyyntöä.
+GET https://0a4f00a803cca70c836b50ec00ac0006.web-security-academy.net/image?filename=/etc/passwd
+
+
+
 <img width="232" alt="Screenshot 2023-11-18 at 22 30 13" src="https://github.com/AkiAleksi/h4/assets/112399816/f8a10e25-2c87-4951-806e-8756ddaa4a70">
 
+Hyökkäys onnistui
 
 
 <img width="639" alt="Screenshot 2023-11-18 at 14 12 33" src="https://github.com/AkiAleksi/h4/assets/112399816/943f765c-7d87-44ab-8102-0bede4e3bf6e">
@@ -214,13 +230,26 @@ GET https://0a4f00a803cca70c836b50ec00ac0006.web-security-academy.net/image?file
 
 f.)
 
-....//....//....//etc/passwd
 
+
+Kaappasin pyynnön. 
 
 <img width="466" alt="Screenshot 2023-11-18 at 22 33 37" src="https://github.com/AkiAleksi/h4/assets/112399816/d1bdc96d-62ec-49d3-b7ce-36c6bd498f78">
 
 
+
+
+
+Muokkasin pyyntöä ....//....//....//etc/passwd
+
+
 <img width="242" alt="Screenshot 2023-11-18 at 22 34 01" src="https://github.com/AkiAleksi/h4/assets/112399816/92c97fa4-ad22-4ff7-a799-80a7645d3895">
+
+
+
+
+Hyökkäys onnistui!
+
 
 
 <img width="456" alt="Screenshot 2023-11-18 at 22 34 15" src="https://github.com/AkiAleksi/h4/assets/112399816/a4b37ac1-4eb3-4010-9992-436684385752">
