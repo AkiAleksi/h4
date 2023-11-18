@@ -172,4 +172,20 @@ Lab solved!!!
 
 d.)
 
+kaappaus
+
+<img width="825" alt="rename" src="https://github.com/AkiAleksi/h4/assets/112399816/76ec9cb5-7c10-4b53-ae9e-6831586b2996">
+
+/../../../../etc/passwd
+
+<img width="266" alt="Screenshot 2023-11-18 at 12 34 38" src="https://github.com/AkiAleksi/h4/assets/112399816/e51534de-bea6-43a6-803a-8053ebf5ce37">
+
+Lab solved
+
+
+<img width="380" alt="Screenshot 2023-11-18 at 12 36 00" src="https://github.com/AkiAleksi/h4/assets/112399816/14b989d1-4c00-4189-982e-281fc791317b">
+
+e.)
+
+
 
