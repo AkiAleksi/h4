@@ -149,7 +149,7 @@ FoxyProxy toimii
 
 c.)
 
-Live chat. chattasin sen jälkeen view transcript. 
+Menin live chattiin ja chattasin. Sen jälkeen view transcript. 
 Huomasin, että numeroitu txt file 2.txt
 
 <img width="646" alt="chat" src="https://github.com/AkiAleksi/h4/assets/112399816/36b7d754-b407-47a3-9c05-bc945b1c4feb">
@@ -161,7 +161,8 @@ Sen jälkeen kokeilin 1.txt sain salasanan
 
 <img width="908" alt="intercept" src="https://github.com/AkiAleksi/h4/assets/112399816/7e812faf-decd-48e2-b1f0-0ee7cbfc4f4f">
 
-Kokeilin salasanaa ja se oli oikein.
+Kokeilin kirjautua tunnuksella ja salasanalla. Pääsin kirjautumaan sisään. 
+Salasana oli oikein. 
 
 <img width="678" alt="solved" src="https://github.com/AkiAleksi/h4/assets/112399816/15a93f0b-be10-4b6a-b2c6-2c838292240c">
 
@@ -169,7 +170,13 @@ Lab solved!!!
 
 d.)
 
+Vihjeessä kerrottiin, että tuotekuvien näyttäminen mahdollistaa 'path traversalin'.
+Avasin consolin ja menin networkkiin. Löysin pyynnöstä heikon kohdan. 
+Muutin siihen ../../../etc/passwd
+
 <img width="568" alt="Screenshot 2023-11-18 at 14 03 38" src="https://github.com/AkiAleksi/h4/assets/112399816/a6187480-a036-4aac-931b-3d53491b715d">
+
+Lab ratkaistu
 
 <img width="618" alt="Screenshot 2023-11-18 at 14 04 13" src="https://github.com/AkiAleksi/h4/assets/112399816/260d825b-89f8-49e6-9a44-70fc5133ec53">
 
