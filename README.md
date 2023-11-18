@@ -273,7 +273,13 @@ j.)
 <img width="436" alt="Screenshot 2023-11-18 at 17 29 08" src="https://github.com/AkiAleksi/h4/assets/112399816/b0c558ea-687e-46f0-9293-116071ec38af">
 
 
+
+
+
 <img width="168" alt="Screenshot 2023-11-18 at 17 33 12" src="https://github.com/AkiAleksi/h4/assets/112399816/4fac5812-f13e-49bd-b69d-d1d76a220a22">
+
+
+
 
 
 
