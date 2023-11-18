@@ -400,7 +400,7 @@ Server-Side Request Forgery (2)
 p) Client side (WebGoat 2023.4)
 Bypass front-end restrictions (2)
 
-#Lähteet
+# Lähteet
 
 https://www.youtube.com/watch?v=17KYOIf5ZbU&embeds_referring_euri=https%3A%2F%2Fportswigger.net%2F&embeds_referring_origin=https%3A%2F%2Fportswigger.net&source_ve_path=MjM4NTE&feature=emb_title
 
