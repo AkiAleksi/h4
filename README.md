@@ -1,7 +1,5 @@
 # h4
 
-14.11.2023 klo 17:00
-
 # x
 
 
@@ -47,7 +45,7 @@ A01:2021 – Broken Access Control 
 
 -Cross-site scripting toimii manipuloimalla haavoittuvaa verkkosivustoa niin, että se palauttaa käyttäjille haitallista JavaScript-koodia. Kun haitallinen koodi suoritetaan uhrihenkilön selaimessa, hyökkääjä voi täysin vaarantaa heidän vuorovaikutuksensa sovelluksen kanssa.
 
-17.11.2023 klo 19:58
+
 
 a.)
 
@@ -258,6 +256,8 @@ Hyökkäys onnistui!
 
 g.)
 
+Tämä kohta jäi tekemättä.
+
 h.)
 
 Menin tuotesivulle. Klikkasin check stock painiketta. 
@@ -397,3 +397,13 @@ Server-Side Request Forgery (2)
 
 p) Client side (WebGoat 2023.4)
 Bypass front-end restrictions (2)
+
+#Lähteet
+
+https://www.youtube.com/watch?v=17KYOIf5ZbU&embeds_referring_euri=https%3A%2F%2Fportswigger.net%2F&embeds_referring_origin=https%3A%2F%2Fportswigger.net&source_ve_path=MjM4NTE&feature=emb_title
+
+https://www.zaproxy.org/docs/
+
+
+
+
