@@ -47,7 +47,7 @@ A01:2021 – Broken Access Control 
 
 
 
-a.)
+# a.)
 
 
 Latasin oswap zapin. Valitsin tuon toisiksi alimmaisen.
@@ -104,7 +104,7 @@ Menin web security academyyn. Hakupyyntö ilmestyi Zapin käyttöliittymään.
 
 
 
-b.)
+# b.)
 
 Latasin Foxyproxyn. Menin add extensions. Hain Foxyproxya. Sen jälkeen lisäsin sen.
 
@@ -145,7 +145,7 @@ FoxyProxy toimii
 
 
 
-c.)
+# c.)
 
 Menin live chattiin ja chattasin. Sen jälkeen view transcript. 
 Huomasin, että numeroitu txt file 2.txt
@@ -166,7 +166,7 @@ Salasana oli oikein.
 
 Lab solved!!!
 
-d.)
+# d.)
 
 Laitoin kuvat mukaan History-osaan: Tools > Options > Display > Process images in HTTP requests/responses
 Kaappasin zapilla pyynnön, jolla haetaan kuva.
@@ -203,7 +203,7 @@ Lab ratkaistu
 
 
 
-e.)
+# e.)
 
 
 
@@ -225,7 +225,7 @@ Lab ratkaistu!
 <img width="639" alt="Screenshot 2023-11-18 at 14 12 33" src="https://github.com/AkiAleksi/h4/assets/112399816/943f765c-7d87-44ab-8102-0bede4e3bf6e">
 
 
-f.)
+# f.)
 
 
 
@@ -254,11 +254,11 @@ Hyökkäys onnistui!
 
 
 
-g.)
+# g.)
 
 Tämä kohta jäi valitettavasti tekemättä ajan loppumisen vuoksi.
 
-h.)
+# h.)
 
 Menin tuotesivulle. Klikkasin check stock painiketta. 
 Kyseinen pyyntö ilmestyi zappiin.
@@ -287,7 +287,7 @@ Annetaan väärennetty pyyntö stockApi=http://localhost/admin/delete?username=c
 
 Lab solved!!
 
-i.)
+# i.)
 
 
 Search box syöttää siihen kirjoitetun koodin.
@@ -337,7 +337,7 @@ Lab ratkaistu
 
 <img width="440" alt="Screenshot 2023-11-18 at 16 44 35" src="https://github.com/AkiAleksi/h4/assets/112399816/b33b3bff-96db-4baa-97a8-dbc5f21c79ae">
 
-j.)
+# j.)
 
 Syötin kommentin ja kaappasin sen zapilla.
 
@@ -358,7 +358,7 @@ Lab ratkaistu!
 <img width="157" alt="Screenshot 2023-11-18 at 17 34 48" src="https://github.com/AkiAleksi/h4/assets/112399816/d9bd8517-5808-4047-8433-64a33a462582">
 
 
-k.)
+# k.)
 
 https://owasp.org/www-project-webgoat/
 
@@ -368,7 +368,7 @@ https://owasp.org/www-project-webgoat/
 
 <img width="457" alt="Screenshot 2023-11-18 at 17 47 00" src="https://github.com/AkiAleksi/h4/assets/112399816/f80013fa-6172-4b4c-9a4c-2fbe4f1d3794">
 
-m.)
+# m.)
 
 
 
@@ -391,14 +391,17 @@ Insecure Direct Object References (4)
 Missing Function Level Access Control (3)
 Spoofing an Authentication Cookie (1)
 
-n) (A7) Identity & Auth Failure (WebGoat 2023.4)
+# n) 
+(A7) Identity & Auth Failure (WebGoat 2023.4)
 Authentication Bypasses (1)
 Insecure Login (1)
 
-o) (A10) Server-side Request Forgery (WebGoat 2023.4)
+# o) 
+(A10) Server-side Request Forgery (WebGoat 2023.4)
 Server-Side Request Forgery (2)
 
-p) Client side (WebGoat 2023.4)
+# p) 
+Client side (WebGoat 2023.4)
 Bypass front-end restrictions (2)
 
 # Lähteet
