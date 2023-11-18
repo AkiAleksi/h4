@@ -381,6 +381,8 @@ En tiedä miten sitä olisi pitänyt tulkita.
 <img width="432" alt="Screenshot 2023-11-18 at 19 37 34" src="https://github.com/AkiAleksi/h4/assets/112399816/a15882b2-cbb4-4c8a-9898-ee67062607a0">
 
 
+Loput tehtävät jäivät valitettavasti tekemättä. Aika loppui kesken.
+Aliarvion ajan, jota tehtävät vievät. Pitää jatkossa varata enemmän aikaa tehtävien tekoon.
 
 Insecure Direct Object References (4)
 
@@ -404,6 +406,10 @@ https://www.youtube.com/watch?v=17KYOIf5ZbU&embeds_referring_euri=https%3A%2F%2F
 
 https://www.zaproxy.org/docs/
 
+https://owasp.org/www-project-webgoat/
 
+https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
+
+https://portswigger.net/web-security/cross-site-scripting
 
 
