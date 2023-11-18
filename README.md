@@ -139,6 +139,15 @@ Asetin proxyn
 
 <img width="929" alt="Screenshot 2023-11-17 at 20 59 15" src="https://github.com/AkiAleksi/h4/assets/112399816/b369bb16-bff1-48a2-a776-eb7be3d2ed9f">
 
+FoxyProxy toimii
+
+
+
+<img width="382" alt="Screenshot 2023-11-18 at 12 05 06" src="https://github.com/AkiAleksi/h4/assets/112399816/fbc32ca9-f616-4e5a-ac64-de4f5a122c2d">
+
+
+
+
 17.11.2023 klo 21:38
 
 c.)
