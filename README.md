@@ -280,15 +280,18 @@ HTML:ssä näkyy kohta, jossa poistetaan carlos.
 
 
 Annetaan väärennetty pyyntö stockApi=http://localhost/admin/delete?username=carlos
-Lab solved!!
+
 
 <img width="434" alt="Screenshot 2023-11-18 at 15 58 52" src="https://github.com/AkiAleksi/h4/assets/112399816/20d62486-6948-45c1-b157-7ddcea22861d">
+
+
+Lab solved!!
 
 i.)
 
 
 Search box syöttää siihen kirjoitetun koodin.
-Testataan (<h1>xd</h1>)
+Testataan antamalla html komento 
 
 
 <img width="444" alt="Screenshot 2023-11-18 at 16 41 29" src="https://github.com/AkiAleksi/h4/assets/112399816/41d80b11-814f-4013-9117-3907d64e65c9">
@@ -296,7 +299,7 @@ Testataan (<h1>xd</h1>)
 
 
 
-
+Se toimii. Kokeillaan seuraavaksi skriptiä.
 Syötetään <script>alert()</script>
 
 
