@@ -219,6 +219,11 @@ Lab solved!!
 i.)
 
 
+
+
+
+
+
 <img width="444" alt="Screenshot 2023-11-18 at 16 41 29" src="https://github.com/AkiAleksi/h4/assets/112399816/41d80b11-814f-4013-9117-3907d64e65c9">
 
 
