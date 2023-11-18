@@ -52,7 +52,7 @@ A01:2021 – Broken Access Control 
 a.)
 
 
-Latasin oswap zapin.
+Latasin oswap zapin. Valitsin tuon toisiksi alimmaisen.
 
 <img width="611" alt="Screenshot 2023-11-17 at 20 01 55" src="https://github.com/AkiAleksi/h4/assets/112399816/699ca0c3-d41e-4e72-bef8-6a47082b7d76">
 
