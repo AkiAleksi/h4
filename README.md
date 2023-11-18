@@ -307,3 +307,11 @@ k.)
 
 <img width="457" alt="Screenshot 2023-11-18 at 17 47 00" src="https://github.com/AkiAleksi/h4/assets/112399816/f80013fa-6172-4b4c-9a4c-2fbe4f1d3794">
 
+m.)
+
+Tätä en osannut
+
+Hijack a session (1)
+
+<img width="634" alt="Screenshot 2023-11-18 at 18 47 27" src="https://github.com/AkiAleksi/h4/assets/112399816/3d8c2963-7013-40d6-bf7e-723ea38ae906">
+
