@@ -99,16 +99,13 @@ Käynnistin sen
 <img width="659" alt="Screenshot 2023-11-17 at 20 29 00" src="https://github.com/AkiAleksi/h4/assets/112399816/bc89e4f3-1386-4158-85b0-95dbc0266a5f">
 
 
-Hain googlea 
 
 
-<img width="654" alt="Screenshot 2023-11-17 at 20 31 31" src="https://github.com/AkiAleksi/h4/assets/112399816/d8a19575-52f0-4067-8866-ce36f0c29a5c">
+<img width="766" alt="Screenshot 2023-11-18 at 15 26 11" src="https://github.com/AkiAleksi/h4/assets/112399816/363a5d62-c78c-40b2-9cd8-33bd695c2dd0">
 
 
 
-Näkyy google haku näkyy Zap
 
-<img width="554" alt="Screenshot 2023-11-17 at 20 11 23" src="https://github.com/AkiAleksi/h4/assets/112399816/d1084316-a849-453c-be11-5ebdab5ca161">
 
 b.)
 
