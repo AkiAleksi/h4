@@ -141,3 +141,26 @@ Asetin proxyn
 
 17.11.2023 klo 21:38
 
+c.)
+
+Live chat. chattasin sen jälkeen view transcript. 
+Huomasin, että numeroitu txt file 2.txt
+
+<img width="646" alt="chat" src="https://github.com/AkiAleksi/h4/assets/112399816/36b7d754-b407-47a3-9c05-bc945b1c4feb">
+
+Katsoin kaappauksen zapista. Muokkasin pyyntöä.
+Ensin laitoin 0.txt. En saanut mitään.
+Sen jälkeen kokeilin 1.txt sain salasanan
+
+
+<img width="908" alt="intercept" src="https://github.com/AkiAleksi/h4/assets/112399816/7e812faf-decd-48e2-b1f0-0ee7cbfc4f4f">
+
+Kokeilin salasanaa ja se oli oikein.
+
+<img width="678" alt="solved" src="https://github.com/AkiAleksi/h4/assets/112399816/15a93f0b-be10-4b6a-b2c6-2c838292240c">
+
+Lab solved!!!
+
+d.)
+
+
