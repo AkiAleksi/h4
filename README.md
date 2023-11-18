@@ -13,43 +13,39 @@ A01:2021 – Broken Access Control 
 
 -Pääsynhallinta toteuttaa käytäntöjä niin, että käyttäjät eivät voi toimia oman tarkoitetun käyttöoikeutensa ulkopuolella. Epäonnistumiset johtavat yleensä valtuuttamattomaan tietojen paljastumiseen, muokkaamiseen tai tuhoamiseen, tai käyttäjän rajojen ulkopuolisen liiketoimintatoiminnon suorittamiseen.
 
--Access control is only effective in trusted server-side code or server-less API, where the attacker cannot modify the access control check or metadata.
+-Pääsynhallinta on tehokasta vain luotetussa palvelinpuolen koodissa tai palvelimetöntä API:ta käytettäessä, missä hyökkääjä ei voi muokata pääsynhallinnan tarkistusta tai metadataa.
 
 
 
 * A10:2021 – Server-Side Request Forgery (SSRF)
 
 
--SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL). 
-Access control vulnerabilities and privilege escalation 
+-SSRF-haavoittuvuudet ilmenevät aina, kun verkkosovellus noutaa etäresurssia ilman käyttäjän toimittaman URL-osoitteen validoimista. Se mahdollistaa hyökkääjän pakottaa sovelluksen lähettämään muokatun pyynnön odottamattomaan kohteeseen, vaikka se olisi suojattu palomuurilla, VPN:llä tai toisentyyppisellä verkon pääsynhallintalistalla (ACL). Pääsynhallintahaavoittuvuudet ja oikeuksien laajennukset
 
--Access control is the application of constraints on who or what is authorized to perform actions or access resources. In the context of web applications, access control is dependent on authentication and session management: authentication, session management, access control.
-
--Broken access controls are common and often present a critical security vulnerability. 
 
 
 * Server-side template injection
 
 
--Server-side template injection is when an attacker is able to use native template syntax to inject a malicious payload into a template, which is then executed server-side.
+-Palvelinpuolen mallinjäykkäys tapahtuu, kun hyökkääjä pystyy käyttämään alkuperäistä mallisyntaksia upottaakseen haitallisen kuormituksen malliin, joka suoritetaan sitten palvelinpuolella
 
--Server-side template injection vulnerabilities can expose websites to a variety of attacks depending on the template engine in question and how exactly the application uses it. 
+-Palvelinpuolen mallinjäykkyyshaavoittuvuudet voivat altistaa verkkosivustot monenlaisille hyökkäyksille riippuen kyseessä olevasta mallimoottorista ja siitä, miten sovellus tarkalleen ottaen sitä käyttää.
 
--Server-side template injection vulnerabilities arise when user input is concatenated into templates rather than being passed in as data.
+-Palvelinpuolen mallinjäykkyyshaavoittuvuudet syntyvät, kun käyttäjän antama syöte yhdistetään malleihin sen sijaan, että se siirrettäisiin dataksi.
 
 * Server-side request forgery (SSRF)
 
 
--Server-side request forgery is a web security vulnerability that allows an attacker to cause the server-side application to make requests to an unintended location.
+-Palvelinpuolen pyynnön väärentäminen on verkkoturvahaavoittuvuus, joka mahdollistaa hyökkääjän aiheuttaa palvelinpuolen sovelluksen tekemään pyyntöjä ei-tarkoitetulle sijainnille.
 
--A successful SSRF attack can often result in unauthorized actions or access to data within the organization. This can be in the vulnerable application, or on other back-end systems that the application can communicate with. In some situations, the SSRF vulnerability might allow an attacker to perform arbitrary command execution.
+-Onnistunut SSRF-hyökkäys voi usein johtaa valtuuttamattomiin toimiin tai pääsyyn tietoihin organisaatiossa. Tämä voi tapahtua joko haavoittuvassa sovelluksessa tai muissa taustajärjestelmissä, joiden kanssa sovellus voi viestiä. Joissakin tilanteissa SSRF-haavoittuvuus saattaa mahdollistaa hyökkääjän suorittaa mielivaltaisia komentoja.
 
 * Cross-site scripting
 
 
--Cross-site scripting (also known as XSS) is a web security vulnerability that allows an attacker to compromise the interactions that users have with a vulnerable application. It allows an attacker to circumvent the same origin policy, which is designed to segregate different websites from each other. Cross-site scripting vulnerabilities normally allow an attacker to masquerade as a victim user, to carry out any actions that the user is able to perform, and to access any of the user's data.
+-Cross-site scripting (tunnetaan myös nimellä XSS) on verkkoturvahaavoittuvuus, joka mahdollistaa hyökkääjän vaarantaa vuorovaikutukset, joita käyttäjillä on haavoittuvan sovelluksen kanssa. Se sallii hyökkääjän kiertää samaa alkuperäisperiaatetta, joka on suunniteltu erottamaan eri verkkosivustot toisistaan. Cross-site scripting -haavoittuvuudet mahdollistavat yleensä hyökkääjän teeskennellä uhriksi joutunutta käyttäjää, suorittamaan mitä tahansa toimintoja, joita käyttäjä voi tehdä, ja saamaan pääsyn kaikkiin käyttäjän tietoihin.
 
--Cross-site scripting works by manipulating a vulnerable web site so that it returns malicious JavaScript to users. When the malicious code executes inside a victim's browser, the attacker can fully compromise their interaction with the application.
+-Cross-site scripting toimii manipuloimalla haavoittuvaa verkkosivustoa niin, että se palauttaa käyttäjille haitallista JavaScript-koodia. Kun haitallinen koodi suoritetaan uhrihenkilön selaimessa, hyökkääjä voi täysin vaarantaa heidän vuorovaikutuksensa sovelluksen kanssa.
 
 17.11.2023 klo 19:58
 
