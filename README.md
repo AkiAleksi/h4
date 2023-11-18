@@ -309,11 +309,17 @@ k.)
 
 m.)
 
-Tätä en osannut
+
 
 Hijack a session (1)
 
-<img width="634" alt="Screenshot 2023-11-18 at 18 47 27" src="https://github.com/AkiAleksi/h4/assets/112399816/3d8c2963-7013-40d6-bf7e-723ea38ae906">
+Tässä näkyy cookie.
+En kyllä oikein keksinyt mitä sille pitäisi tehdä.
+
+
+<img width="432" alt="Screenshot 2023-11-18 at 19 37 34" src="https://github.com/AkiAleksi/h4/assets/112399816/a15882b2-cbb4-4c8a-9898-ee67062607a0">
+
+
 
 Insecure Direct Object References (4)
 Missing Function Level Access Control (3)
