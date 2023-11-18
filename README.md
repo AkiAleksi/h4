@@ -192,11 +192,17 @@ g.)
 
 h.)
 
+Menin tuotesivulle. Klikkasin check stock painiketta. 
+Kyseinen pyyntö ilmestyi zappiin.
+
 <img width="585" alt="Screenshot 2023-11-18 at 15 48 57" src="https://github.com/AkiAleksi/h4/assets/112399816/8c9d5a3e-e370-4c06-978e-b7af79da1716">
 
+Pyynnössä näkyy stockApi. Klikkasin Request editoria kyseisen
+pyynnön suhteen.
 
 <img width="456" alt="Screenshot 2023-11-18 at 15 50 17" src="https://github.com/AkiAleksi/h4/assets/112399816/f88279db-3952-4722-92eb-0f9fc7a7b155">
 
+Lähetin väärennetyn 
 
 <img width="437" alt="Screenshot 2023-11-18 at 15 51 53" src="https://github.com/AkiAleksi/h4/assets/112399816/5db9246e-c6f0-4ecb-a82f-daffd83a17d2">
 
