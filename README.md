@@ -7,11 +7,11 @@
 
 A01:2021 – Broken Access Control 
 
--94% of applications were tested for some form of broken access control with the average incidence rate of 3.81%, and has the most occurrences in the contributed dataset with over 318k. 
+-94%:sta sovelluksista testattiin jollain tavalla rikkoutuneen pääsynhallinnan varalta keskimääräisen ilmenevyysasteen ollessa 3.81%, ja se esiintyi eniten osallistuneessa datasetissä yli 318 000 kertaa. 
 
--Notable Common Weakness Enumerations (CWEs) included are CWE-200: Exposure of Sensitive Information to an Unauthorized Actor, CWE-201: Insertion of Sensitive Information Into Sent Data, and CWE-352: Cross-Site Request Forgery.
+-Huomionarvoisia yleisiä heikkouksien luettelointeja (CWE) ovat CWE-200: Herkkien tietojen paljastuminen valtuuttamattomalle toimijalle, CWE-201: Herkän tiedon lisääminen lähetettyihin tietoihin ja CWE-352: Ristiinsivustoista pyyntöjen väärentämistä.
 
--Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
+-Pääsynhallinta toteuttaa käytäntöjä niin, että käyttäjät eivät voi toimia oman tarkoitetun käyttöoikeutensa ulkopuolella. Epäonnistumiset johtavat yleensä valtuuttamattomaan tietojen paljastumiseen, muokkaamiseen tai tuhoamiseen, tai käyttäjän rajojen ulkopuolisen liiketoimintatoiminnon suorittamiseen.
 
 -Access control is only effective in trusted server-side code or server-less API, where the attacker cannot modify the access control check or metadata.
 
