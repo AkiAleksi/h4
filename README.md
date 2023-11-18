@@ -56,7 +56,8 @@ Latasin oswap zapin. Valitsin tuon toisiksi alimmaisen.
 
 <img width="611" alt="Screenshot 2023-11-17 at 20 01 55" src="https://github.com/AkiAleksi/h4/assets/112399816/699ca0c3-d41e-4e72-bef8-6a47082b7d76">
 
-Ajoin java -jar <kohde> komennon. Se käynnistää zapin.
+navigoin cd /usr/share/zaproxy/
+Sen jälkeen ajoin java -jar <kohde> komennon. Se käynnistää zapin.
 
 <img width="634" alt="Screenshot 2023-11-17 at 20 00 21" src="https://github.com/AkiAleksi/h4/assets/112399816/8aa49a76-1d9d-41e0-8b06-943bd2daab84">
 
@@ -67,7 +68,9 @@ Zap käynnissä
 
 localhost:8080 
 Zap näkyy
-Latasin sertifikaatin.
+
+Loin CA-sertifikaatin. Zapissa sertifikaatti luodaan menemällä Options -> Server Certificates -> Save. Sitten paikan valinta.
+Latasin sertifikaatin zapin sivuilta.
 
 
 
