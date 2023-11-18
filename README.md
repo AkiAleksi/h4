@@ -98,7 +98,7 @@ Käynnistin sen
 
 <img width="659" alt="Screenshot 2023-11-17 at 20 29 00" src="https://github.com/AkiAleksi/h4/assets/112399816/bc89e4f3-1386-4158-85b0-95dbc0266a5f">
 
-
+Menin web security academyyn. Hakupyyntö ilmestyi Zapin käyttöliittymään.
 
 
 <img width="766" alt="Screenshot 2023-11-18 at 15 26 11" src="https://github.com/AkiAleksi/h4/assets/112399816/363a5d62-c78c-40b2-9cd8-33bd695c2dd0">
