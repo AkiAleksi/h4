@@ -207,8 +207,25 @@ HTML:ssä näkyy kohta, jossa poistetaan carlos.
 
 <img width="437" alt="Screenshot 2023-11-18 at 15 51 53" src="https://github.com/AkiAleksi/h4/assets/112399816/5db9246e-c6f0-4ecb-a82f-daffd83a17d2">
 
+
+
+
+
 Annetaan väärennetty pyyntö stockApi=http://localhost/admin/delete?username=carlos
 Lab solved!!
 
 <img width="434" alt="Screenshot 2023-11-18 at 15 58 52" src="https://github.com/AkiAleksi/h4/assets/112399816/20d62486-6948-45c1-b157-7ddcea22861d">
+
+i.)
+
+
+<img width="444" alt="Screenshot 2023-11-18 at 16 41 29" src="https://github.com/AkiAleksi/h4/assets/112399816/41d80b11-814f-4013-9117-3907d64e65c9">
+
+
+<img width="366" alt="Screenshot 2023-11-18 at 16 45 07" src="https://github.com/AkiAleksi/h4/assets/112399816/fc489d79-d77f-4b98-beb4-1ebee4ca0632">
+
+<img width="424" alt="Screenshot 2023-11-18 at 16 44 21" src="https://github.com/AkiAleksi/h4/assets/112399816/63c26178-1b14-402a-a629-92017ada87fd">
+
+<img width="440" alt="Screenshot 2023-11-18 at 16 44 35" src="https://github.com/AkiAleksi/h4/assets/112399816/b33b3bff-96db-4baa-97a8-dbc5f21c79ae">
+
 
