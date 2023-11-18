@@ -375,7 +375,7 @@ m.)
 Hijack a session (1)
 
 Tässä näkyy cookie.
-En kyllä oikein keksinyt mitä sille pitäisi tehdä.
+En tiedä miten sitä olisi pitänyt tulkita.
 
 
 <img width="432" alt="Screenshot 2023-11-18 at 19 37 34" src="https://github.com/AkiAleksi/h4/assets/112399816/a15882b2-cbb4-4c8a-9898-ee67062607a0">
@@ -383,6 +383,8 @@ En kyllä oikein keksinyt mitä sille pitäisi tehdä.
 
 
 Insecure Direct Object References (4)
+
+
 Missing Function Level Access Control (3)
 Spoofing an Authentication Cookie (1)
 
