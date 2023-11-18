@@ -256,7 +256,7 @@ Hyökkäys onnistui!
 
 g.)
 
-Tämä kohta jäi tekemättä.
+Tämä kohta jäi valitettavasti tekemättä ajan loppumisen vuoksi.
 
 h.)
 
@@ -383,6 +383,7 @@ En tiedä miten sitä olisi pitänyt tulkita.
 
 Loput tehtävät jäivät valitettavasti tekemättä. Aika loppui kesken.
 Aliarvion ajan, jota tehtävät vievät. Pitää jatkossa varata enemmän aikaa tehtävien tekoon.
+Jatkan tehtävien tekoa myöhemmin.
 
 Insecure Direct Object References (4)
 
@@ -411,5 +412,7 @@ https://owasp.org/www-project-webgoat/
 https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
 
 https://portswigger.net/web-security/cross-site-scripting
+
+Käytin tiivistelmässä kääntämiseen ChatGPT
 
 
