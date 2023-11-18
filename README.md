@@ -209,14 +209,12 @@ e.)
 
 
 
-Kaappasin taas pyynnön.
+Kaappasin taas pyynnön ja muokkasin sitä.
+GET https://0a4f00a803cca70c836b50ec00ac0006.web-security-academy.net/image?filename=/etc/passwd
 
 <img width="440" alt="Screenshot 2023-11-18 at 22 28 05" src="https://github.com/AkiAleksi/h4/assets/112399816/00b70ec4-7837-41fc-ac7d-a1709a0ef823">
 
 
-
-Muokkasin taas pyyntöä.
-GET https://0a4f00a803cca70c836b50ec00ac0006.web-security-academy.net/image?filename=/etc/passwd
 
 
 
