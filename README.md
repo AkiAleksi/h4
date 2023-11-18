@@ -315,3 +315,16 @@ Hijack a session (1)
 
 <img width="634" alt="Screenshot 2023-11-18 at 18 47 27" src="https://github.com/AkiAleksi/h4/assets/112399816/3d8c2963-7013-40d6-bf7e-723ea38ae906">
 
+Insecure Direct Object References (4)
+Missing Function Level Access Control (3)
+Spoofing an Authentication Cookie (1)
+
+n) (A7) Identity & Auth Failure (WebGoat 2023.4)
+Authentication Bypasses (1)
+Insecure Login (1)
+
+o) (A10) Server-side Request Forgery (WebGoat 2023.4)
+Server-Side Request Forgery (2)
+
+p) Client side (WebGoat 2023.4)
+Bypass front-end restrictions (2)
