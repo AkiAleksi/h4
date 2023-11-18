@@ -187,5 +187,12 @@ Lab solved
 
 e.)
 
+<img width="164" alt="uusxd" src="https://github.com/AkiAleksi/h4/assets/112399816/e32f1393-f0e3-4503-b058-c36d8f3b26cc">
+
+
+
+<img width="275" alt="Screenshot 2023-11-18 at 13 36 55" src="https://github.com/AkiAleksi/h4/assets/112399816/3aed873e-9213-40e3-976a-b1f6586e08ca">
+
+f.)
 
 
